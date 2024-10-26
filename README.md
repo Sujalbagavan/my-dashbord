@@ -29,7 +29,7 @@ Technologies Used
 - Deployment: Deployed using Netlify for a fast and seamless experience.
 
 Key Features
-- Responsive Design: EzyMetrics is fully responsive, offering a smooth experience across devices from desktops to mobile phones.
+- Responsive Design: my-dashbord is fully responsive, offering a smooth experience across devices from desktops to mobile phones.
 - Customizable Widgets: The dashboard features customizable widgets to display metrics relevant to the user.
 - Lead Management: A dedicated section for managing leads, with details accessible through modals.
 - Analytics & Reporting: Easily generate PDF or CSV reports of the data.
@@ -40,14 +40,15 @@ Follow these steps to run the project locally:
 
 Clone the repository:
 
-git clone https://github.com/yourusername/ezy-metrics-dashboard.git
-cd ezy-metrics-dashboard
+git clone https://github.com/Sujalbagavan/my-dashboard.git
+cd my-dashboard
 Install the required dependencies:
 
 npm install
-Start the development server:
 
-npm start
+Start the development server:npm start
+
+
 Open your browser and navigate to http://localhost:3000 to view the dashboard.
 
 
